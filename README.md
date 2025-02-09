@@ -1,6 +1,4 @@
-# React + Vite
-
-# React.js  Login Auth Framework
+#  React + Vite  Login Auth Framework
 
 This project demonstrates a basic login authentication framework built with React. It covers user registration, login, logout, and protected routes.  It's designed to be a starting point for building more complex authentication systems.
 ![Project Screenshot 1](/src/assets/images/Screenshot%202025-02-09%20123829.png)
